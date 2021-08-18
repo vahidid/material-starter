@@ -1,46 +1,29 @@
-# Getting Started with Create React App
+An template for starter a Material ui typescript for react.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dependencies
 
-## Available Scripts
+<ul>
+<li>Material Ui@4.11.4</li>
+<li>Clsx@1.1.1</li>
+<li>jss@10.6.0</li>
+<li>jss rtl@0.3.0</li>
+<li>Node Sass@6.0.1</li>
+<li>React@17.0.2</li>
+<li>React Animation Height@2.0.23</li>
+<li>React DOM@17.0.2</li>
+<li>React Iconly@2.2.3</li>
+<li>React Router DOM@5.2.0</li>
+<li>React Scripts@4.0.3</li>
+<li>React Transition Group@4.4.2</li>
+<li>Sass@1.35.1</li>
+<li>Typescrip@4.1.2</li>
 
-In the project directory, you can run:
+</ul>
 
-### `yarn start`
+# Use
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+for use this template you can just `clone` it and install dependencies `npm install` or `yarn add` and customize pages and components.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Sections
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Coming soon...
